@@ -12,9 +12,6 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=whym3&theme=highcontrast&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=whym3&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
