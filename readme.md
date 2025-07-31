@@ -16,10 +16,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/whym3/whym3/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=whym3&theme=highcontrast&hide_border=false)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
