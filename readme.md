@@ -1,7 +1,7 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
-🔭 I’m currently working on my project Quant<br>👨🏼‍🎓 Studying MSc. in Artificial Intelligence at BTU Cottbus
+🔭 I’m currently working on my project Law Brain<br>👨🏼‍🎓 Studying MSc. in Artificial Intelligence at BTU Cottbus
 
 
 ## 🌐 Connect:
